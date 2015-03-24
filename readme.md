@@ -6,15 +6,15 @@ A simple [Laravel Elixir](https://github.com/laravel/elixir) extension that adds
 
 ### Installation
 
-1. Install this extension
+Install this extension:
 
     npm install laravel-elixir-suitcss --save-dev
 
-2. Install SUIT CSS with npm
+Install SUIT CSS with npm:
 
     npm install suitcss --save-dev
 
-You can also install [standalone SUIT CSS](https://github.com/suitcss/suit#css-packages) packages
+...you can also install [standalone SUIT CSS](https://github.com/suitcss/suit#css-packages) packages
 
     npm install <package-name> --save-dev
 

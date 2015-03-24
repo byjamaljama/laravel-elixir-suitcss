@@ -14,7 +14,7 @@ Install SUIT CSS with npm:
 
     npm install suitcss --save-dev
 
-...you can also install [standalone SUIT CSS](https://github.com/suitcss/suit#css-packages) packages
+...you can also install [standalone SUIT CSS](https://github.com/suitcss/suit#css-packages) packages:
 
     npm install <package-name> --save-dev
 

@@ -24,7 +24,7 @@ For further information about SUIT CSS, please see their [repository](https://gi
 
 ### Usage
 
-    var gulp = require('gulp');
+    var elixir = require('laravel-elixir');
     
     require('laravel-elixir-suitcss');
     

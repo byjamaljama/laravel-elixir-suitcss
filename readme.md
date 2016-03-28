@@ -1,8 +1,8 @@
-# Laravel Elixir Extension for SUIT CSS Preprocessor
+# Laravel Elixir Extension for SUIT CSS Preprocessor (DEPRECATED)
 
 A simple [Laravel Elixir](https://github.com/laravel/elixir) extension that adds support for the [CSS preprocessor](https://github.com/suitcss/preprocessor) included in [SUIT CSS](https://github.com/suitcss/suit).
 
---
+---
 
 ### Installation
 
@@ -20,7 +20,7 @@ Install SUIT CSS with npm:
 
 For further information about SUIT CSS, please see their [repository](https://github.com/suitcss/suit).
 
---
+---
 
 ### Usage
 
@@ -38,13 +38,13 @@ You can also pass options to the preprocessor:
 
 Supported options are available [in the official SUIT CSS Preprocessor repository](https://github.com/suitcss/preprocessor).
 
---
+---
 
 ### License
 
 This is licensed under the [MIT license](http://byjml.mit-license.org/).
 
---
+---
 
 ### Notes
 
